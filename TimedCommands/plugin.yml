@@ -1,0 +1,14 @@
+main: com.TimedCommands.Main
+name: TimedCommands
+version: 1.0
+api-version: 1.15
+author: MeRocks2000
+description: TimedCommmands
+commands:
+  timedcommands:
+   description: Timed commands
+   usage: /timedcommands
+   default: op
+   aliases: [tc]
+
+   
